@@ -18,3 +18,10 @@ My goal is to become a web-developer, and rise as a specialist. I concider its i
 
 #### Experience
 [My achievements](https://www.codecademy.com/users/py9182237498/achievements) in Codecademy
+
+#### Education
+  * Rolling Scopes School
+  * Codecademy
+
+#### English
+pre-intermediate
