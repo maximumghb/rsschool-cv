@@ -7,3 +7,14 @@ Maksym, Babin
   
 #### Summary 
 My goal is to become a web-developer, and rise as a specialist. I concider its interesting fast-changing sphere. Self-development is very important for me. I have a great passion and ability to learn fast.
+
+#### Skills
+  * HTML
+  * CSS
+  * Git
+
+#### Code examples
+```alert('Hello World!');```
+
+#### Experience
+[My achievements](https://www.codecademy.com/users/py9182237498/achievements) in Codecademy
